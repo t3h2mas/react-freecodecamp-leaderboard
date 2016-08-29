@@ -1,0 +1,13 @@
+.user-img {
+  height: 50px;
+  width: 50px; }
+
+* {
+  font-family: "Dosis", "sans-seriff"; }
+
+table {
+  font-size: 2rem; }
+
+a, a:hover {
+  text-decoration: none;
+  color: #000; }

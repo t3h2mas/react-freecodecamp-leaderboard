@@ -1,0 +1,21 @@
+$font-stack: 'Dosis', 'sans-seriff';
+$image-size: 50px;
+$link-color: #000;
+
+.user-img {
+  height: $image-size;
+  width: $image-size;
+}
+
+* {
+  font-family: $font-stack;
+}
+
+table {
+  font-size: 2rem;
+}
+
+a, a:hover {
+  text-decoration: none;
+  color: $link-color;
+}
